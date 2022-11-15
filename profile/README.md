@@ -1,7 +1,7 @@
 # .github
 
 
-#Bienvenido a la organizacion de la asignatura de primero de FP de Informática
+# Bienvenido a la organizacion de la asignatura de primero de FP de Informática
 
 * Lea los apuntes del siguiente [enlace](http://www.bioscopia.com.ar/analisis-clusters-kmeans/)
 * Haga los ejercicios
